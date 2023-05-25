@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98fa0171-9d1c-4e8d-a275-a90518119db1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/InterfaceForUSB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="121" column="36" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-97">
+              <caret line="147" column="44" selection-start-line="147" selection-start-column="39" selection-end-line="147" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>环境生效</find>
+      <find>envir_effect</find>
+      <find>distance</find>
+      <find>get_color_plate</find>
+      <find>色板读取</find>
+      <find>search</find>
+      <find>程序版本</find>
+      <find>搜索设备</find>
+      <find>DeviceInfo</find>
+      <find>搜索</find>
+      <find>设置环境变量</find>
+      <find>sdk_set_temp_unit</find>
+      <find>SetGain</find>
+      <find>ComName</find>
+      <find>读取温度单位</find>
+      <find>set_temp_unit</find>
+      <find>read_temp_unit</find>
+      <find>测温类型</find>
+      <find>通信读指令</find>
+      <find>readHandle</find>
+      <find>ReadHandle</find>
+      <find>WriteHandle</find>
+      <find>打开设备</find>
+      <find>色板切换</find>
+      <find>iCoreType</find>
+      <find>port</find>
+      <find>iNumber</find>
+      <find>port:</find>
+      <find>iport</find>
+      <find>port =</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Working\20210923-Python-SDK\InterfaceForJava2021511\InterfaceForJava\20210423\jna-func-master\src\main\resources\win32-x86-64</dir>
+      <dir>D:\Working\20210923-Python-SDK\InterfaceForJava2021511\InterfaceForJava2021511\InterfaceForJava\20210423\jna-func-master\src\main\resources</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/ShowUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/InterfaceForUSB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\IntelliJ IDEA 2019.3.5\apache-maven-3.6.3\maven-repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\IntelliJ IDEA 2019.3.5\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="530" />
+  </component>
+  <component name="ProjectId" id="1l8bQvRaNNbOFLdHzhAaUuvrZM0" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jnafunc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna-func" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna-func-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="win32-x86-64" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634353003424" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.giraffetree.jnafunc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working\20210923-Python-SDK\InterfaceForJava2021511\InterfaceForJava2021511\InterfaceForJava\20210423\jna-func-master\src\main\resources\win32-x86-64" />
+      <recent name="D:\Working\20210507-Python-SDK\InterfaceForJava20214.23\InterfaceForJava\20210423\jna-func-master\src\main\resources\win32-x86-64" />
+      <recent name="D:\Working\20210507-Python SDK\InterfaceForJava20214.23\InterfaceForJava\20210423\jna-func-master\lib" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn deploy" />
+      <command value="mvn jar:sign-verify" />
+      <command value="mvn package" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="InterfaceForUSB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.giraffetree.jnafunc.InterfaceForUSB" />
+      <module name="jna-func" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.giraffetree.jnafunc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.giraffetree.jnafunc.test" />
+      <module name="jna-func" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.giraffetree.jnafunc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InterfaceForUSB" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.InterfaceForUSB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HP\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98fa0171-9d1c-4e8d-a275-a90518119db1" name="Default Changelist" comment="" />
+      <created>1606981652838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606981652838</updated>
+      <workItem from="1606981658601" duration="6084000" />
+      <workItem from="1607328248732" duration="4585000" />
+      <workItem from="1608597604426" duration="40698000" />
+      <workItem from="1611644515277" duration="13598000" />
+      <workItem from="1611803677226" duration="41683000" />
+      <workItem from="1611972167409" duration="32593000" />
+      <workItem from="1612245567886" duration="11917000" />
+      <workItem from="1613616906095" duration="2147000" />
+      <workItem from="1613621287791" duration="7017000" />
+      <workItem from="1613638932918" duration="19281000" />
+      <workItem from="1614387455267" duration="41000" />
+      <workItem from="1614387562918" duration="1624000" />
+      <workItem from="1614674899335" duration="13300000" />
+      <workItem from="1614751263504" duration="13476000" />
+      <workItem from="1615529924166" duration="6468000" />
+      <workItem from="1615965806792" duration="2776000" />
+      <workItem from="1616046116587" duration="20000" />
+      <workItem from="1616468069397" duration="40457000" />
+      <workItem from="1617323369420" duration="4000" />
+      <workItem from="1617324200201" duration="1697000" />
+      <workItem from="1617756640683" duration="31000" />
+      <workItem from="1619148981405" duration="662000" />
+      <workItem from="1620628365030" duration="310000" />
+      <workItem from="1620628922364" duration="1275000" />
+      <workItem from="1620630979790" duration="246000" />
+      <workItem from="1620631370181" duration="1384000" />
+      <workItem from="1620632801485" duration="14144000" />
+      <workItem from="1620701297497" duration="49000" />
+      <workItem from="1622172401788" duration="1244000" />
+      <workItem from="1622451850971" duration="624000" />
+      <workItem from="1629275499026" duration="28000" />
+      <workItem from="1632369100830" duration="179000" />
+      <workItem from="1632369432130" duration="7089000" />
+      <workItem from="1633746906607" duration="2064000" />
+      <workItem from="1633916561320" duration="1313000" />
+      <workItem from="1634201079604" duration="5466000" />
+      <workItem from="1634261273097" duration="13692000" />
+      <workItem from="1634279820267" duration="3928000" />
+      <workItem from="1634283828982" duration="10625000" />
+      <workItem from="1634518207791" duration="984000" />
+      <workItem from="1634519549972" duration="156000" />
+      <workItem from="1635126461419" duration="4625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69425000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15817694" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2291372" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.36350778" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2624" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1619150592692">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612254202025" />
+    <state x="2624" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619150592692" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1611892756480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611892756480" />
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611819547598" />
+    <state x="3210" y="244" key="FileChooserDialogImpl" timestamp="1619150591903">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1290" y="244" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612254259877" />
+    <state x="3210" y="244" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1619150591903" />
+    <state width="1860" height="305" key="GridCell.Tab.0.bottom" timestamp="1617174411325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614733622516" />
+    <state width="1860" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617174411325" />
+    <state width="1860" height="305" key="GridCell.Tab.0.center" timestamp="1617174411325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614733622516" />
+    <state width="1860" height="305" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617174411325" />
+    <state width="1860" height="305" key="GridCell.Tab.0.left" timestamp="1617174411325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614733622516" />
+    <state width="1860" height="305" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617174411325" />
+    <state width="1860" height="305" key="GridCell.Tab.0.right" timestamp="1617174411325">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614733622516" />
+    <state width="1860" height="305" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1617174411325" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1614387391999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614387391999" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611819592527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1614387391999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614387391999" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611819592526" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1614387391999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614387391999" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611819592526" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1614387391999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614387391999" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611819592526" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1612245625672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612245625672" />
+    <state x="661" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1614685132701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1614685132701" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1612237685132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612237685132" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612250802594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1612250802594" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/win32-x86-64/USBSDK.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_251/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/ShowUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/win32-x86-64/InfEntity.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/IntelliJ IDEA 2019.3.5/apache-maven-3.6.3/maven-repository/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar!/com/sun/jna/ptr/ByteByReference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/InterfaceForUSB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="121" column="36" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/giraffetree/jnafunc/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="147" column="44" selection-start-line="147" selection-start-column="39" selection-end-line="147" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jna-func</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: jna:jna:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

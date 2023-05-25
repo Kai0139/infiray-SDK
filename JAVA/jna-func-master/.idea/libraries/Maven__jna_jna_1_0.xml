@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jna:jna:1.0">
+    <CLASSES>
+      <root url="jar://E:/IntelliJ IDEA 2019.3.5/apache-maven-3.6.3/maven-repository/jna/jna/1.0/jna-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/IntelliJ IDEA 2019.3.5/apache-maven-3.6.3/maven-repository/jna/jna/1.0/jna-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/IntelliJ IDEA 2019.3.5/apache-maven-3.6.3/maven-repository/jna/jna/1.0/jna-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
