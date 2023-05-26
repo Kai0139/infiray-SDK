@@ -1,0 +1,220 @@
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe.config
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.pdb
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.pdb
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.xml
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csprojResolveAssemblyReference.cache
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Form1.resources
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Properties.Resources.resources
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csproj.GenerateResource.Cache
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\USB3.0机芯Windows SDK_V1.1.4_D20210429\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csprojResolveAssemblyReference.cache
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Form1.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Properties.Resources.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csproj.GenerateResource.Cache
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe.config
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_V1141\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csprojResolveAssemblyReference.cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Form1.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Properties.Resources.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csproj.GenerateResource.Cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe.config
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1151\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe.config
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csprojResolveAssemblyReference.cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Form1.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Properties.Resources.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csproj.GenerateResource.Cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1181\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe.config
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\IRAY_Test.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Blob.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.Extensions.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\OpenTK.GLControl.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ZedGraph.xml
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\de\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\es\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\fr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\hu\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\it\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ja\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\pt\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\ru\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sk\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\sv\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\tr\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csprojResolveAssemblyReference.cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Form1.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.Properties.Resources.resources
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.csproj.GenerateResource.Cache
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.exe
+F:\Projects\USBSDK\IRT_UVC_SDK_winx86_x64_V1183\Demo\C#\IRAY_Test\IRAY_Test\obj\Debug\IRAY_Test.pdb
